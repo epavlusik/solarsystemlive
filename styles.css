@@ -362,6 +362,13 @@ footer {
     right: -5px;
     box-shadow:0 0 20px #b0dce4;
 }
+@media(max-width: 768px){
+
+ .container,.cyrcle2,.cyrcle3,.cyrcle4,.cyrcle5,.cyrcle6,.cyrcle7,.cyrcle8,.cyrcle9 {
+    margin-top: 80px; 
+    margin-left:30px;
+ }
+}
 @keyframes animate {
     0%
     {
