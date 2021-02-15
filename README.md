@@ -5,7 +5,7 @@ I gave myself challenge to create the model of the solarsystem using only CSS.
 
 ## My goals were:
 
-1. Show the planets in context of their actual speed compering to the others
+1. Show the planets in context of their actual speed comparing to the others
 2. Indicate the size of planets (just approximated)
 
 ## Challenges:
